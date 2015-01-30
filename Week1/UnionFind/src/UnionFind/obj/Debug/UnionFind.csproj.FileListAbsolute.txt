@@ -1,0 +1,12 @@
+C:\DevProjects\GitHub\Algorithms and DataStructures\CSharp.AlgorithmsPart1.Coursera\Week1\UnionFind\UnionFind\bin\Debug\UnionFind.exe.config
+C:\DevProjects\GitHub\Algorithms and DataStructures\CSharp.AlgorithmsPart1.Coursera\Week1\UnionFind\UnionFind\obj\Debug\UnionFind.csprojResolveAssemblyReference.cache
+C:\DevProjects\GitHub\Algorithms and DataStructures\CSharp.AlgorithmsPart1.Coursera\Week1\UnionFind\UnionFind\bin\Debug\UnionFind.exe
+C:\DevProjects\GitHub\Algorithms and DataStructures\CSharp.AlgorithmsPart1.Coursera\Week1\UnionFind\UnionFind\bin\Debug\UnionFind.pdb
+C:\DevProjects\GitHub\Algorithms and DataStructures\CSharp.AlgorithmsPart1.Coursera\Week1\UnionFind\UnionFind\obj\Debug\UnionFind.exe
+C:\DevProjects\GitHub\Algorithms and DataStructures\CSharp.AlgorithmsPart1.Coursera\Week1\UnionFind\UnionFind\obj\Debug\UnionFind.pdb
+C:\DevProjects\GitHub\Algorithms and DataStructures\CSharp.AlgorithmsPart1.Coursera\Week1\UnionFind\src\UnionFind\bin\Debug\UnionFind.exe.config
+C:\DevProjects\GitHub\Algorithms and DataStructures\CSharp.AlgorithmsPart1.Coursera\Week1\UnionFind\src\UnionFind\obj\Debug\UnionFind.exe
+C:\DevProjects\GitHub\Algorithms and DataStructures\CSharp.AlgorithmsPart1.Coursera\Week1\UnionFind\src\UnionFind\obj\Debug\UnionFind.pdb
+C:\DevProjects\GitHub\Algorithms and DataStructures\CSharp.AlgorithmsPart1.Coursera\Week1\UnionFind\src\UnionFind\bin\Debug\UnionFind.exe
+C:\DevProjects\GitHub\Algorithms and DataStructures\CSharp.AlgorithmsPart1.Coursera\Week1\UnionFind\src\UnionFind\bin\Debug\UnionFind.pdb
+C:\DevProjects\GitHub\Algorithms and DataStructures\CSharp.AlgorithmsPart1.Coursera\Week1\UnionFind\src\UnionFind\obj\Debug\UnionFind.csprojResolveAssemblyReference.cache
