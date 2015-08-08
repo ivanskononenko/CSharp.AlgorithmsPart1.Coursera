@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ElementarySorts
 {
-    public class SelectionSort
+    public class SelectionSort: BaseSort
     {
-        public void Sort(IComparable[] a)
+        public override void Sort(IComparable[] a)
         {
             int N = a.Length;
             for (int i = 0; i < N; i++)
@@ -19,15 +19,6 @@ namespace ElementarySorts
                         min = j;
                 exch(a, i, min);
             }
-        }
-
-        private bool less(IComparable v, IComparable w)
-        {
-            return false;
-        }
-
-        private void exch(IComparable[] v, int i, int j)
-        {
         }
     }
 }
