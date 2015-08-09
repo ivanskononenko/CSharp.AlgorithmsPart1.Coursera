@@ -2,7 +2,7 @@
 
 namespace ElementarySorts
 {
-    public class InsertionSort: ISort
+    public class BubbleSort : ISort
     {
         public bool less(IComparable v, IComparable w)
         {
@@ -15,20 +15,21 @@ namespace ElementarySorts
             arr[j] = tmp;
         }
 
-        public void Sort(IComparable[] a)
+        public void Sort(IComparable[] arr)
         {
-            int N = a.Length;
-            for (int i = 0; i < N; i++)
+            int N = arr.Length;
+
+            for (int i = 1; i < N; i++)
             {
-                for (int j = i; j > 0; j--)
+                for (int j = 0; j < N - i; j++)
                 {
-                    if (less(a[j], a[j - 1]))
+                    if (less(arr[j + 1], arr[j]))
                     {
-                        exch(a, j, j - 1);
+                        exch(arr, j + 1, j);
                     }
                 }
             }
-        }
 
+        }
     }
 }

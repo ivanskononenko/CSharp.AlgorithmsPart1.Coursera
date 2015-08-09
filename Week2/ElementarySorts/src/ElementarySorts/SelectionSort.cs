@@ -6,9 +6,20 @@ using System.Threading.Tasks;
 
 namespace ElementarySorts
 {
-    public class SelectionSort: BaseSort
+    public class SelectionSort: ISort
     {
-        public override void Sort(IComparable[] a)
+        public bool less(IComparable v, IComparable w)
+        {
+            return v.CompareTo(w) < 0;
+        }
+        public void exch(IComparable[] arr, int i, int j)
+        {
+            IComparable tmp = arr[i];
+            arr[i] = arr[j];
+            arr[j] = tmp;
+        }
+
+        public  void Sort(IComparable[] a)
         {
             int N = a.Length;
             for (int i = 0; i < N; i++)
