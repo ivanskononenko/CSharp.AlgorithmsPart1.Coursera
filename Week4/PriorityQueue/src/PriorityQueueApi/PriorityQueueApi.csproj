@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IMinPriorityQueue.cs" />
+    <Compile Include="IMaxPriorityQueue.cs" />
+    <Compile Include="MaxPQ.cs" />
+    <Compile Include="MinPQ.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
